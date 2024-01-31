@@ -43,6 +43,6 @@ EAX enhances the game's audio using hardware acceleration to process advanced 3D
 | 9         | 2880x2160     |
 | 10        | 3840x2160     |
 
-ScreenRes 0-4 are accessible in-game using the Video Settings page. You can only choose ScreenRes 5-10 by using this configuration file.
+ScreenRes 0-4 can be selected in-game through the Video Settings page, while ScreenRes 5-10 can only be set using the user configuration file.
 
 ScreenRes 4 is referred to as "Native Resolution" in-game. This option will apply 8K resolution then if you are using a lower resolution display, it will automatically adjust by rounding down to your native resolution.
