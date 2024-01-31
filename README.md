@@ -22,19 +22,19 @@ dgVoodoo2 offers smoother, less pixelated shadows than 3D-Analyze. However, some
 ### Additional Screen Resolution Support
  After creating a profile in the game, a profile configuration file named `<profilename>_prf.ini` is generated in the System folder. Once generated, you can open this configuration file to make adjustments to your screen resolution that may not be accessible through the video settings GUI.
 
-| ScreenRes | Resolution    |
-|-----------|---------------|
-| 0         | 640x480       |
-| 1         | 800x600       |
-| 2         | 1024x768      |
-| 3         | 1280x1024     |
+| ScreenRes | Resolution            |
+|-----------|-----------------------|
+| 0         | 640x480               |
+| 1         | 800x600               |
+| 2         | 1024x768              |
+| 3         | 1280x1024             |
 | 4         | 7680x4320 / Native    |
-| 5         | 1440x1080     |
-| 6         | 1920x1080     |
-| 7         | 1920x1440     |
-| 8         | 2560x1440     |
-| 9         | 2880x2160     |
-| 10        | 3840x2160     |
+| 5         | 1440x1080             |
+| 6         | 1920x1080             |
+| 7         | 1920x1440             |
+| 8         | 2560x1440             |
+| 9         | 2880x2160             |
+| 10        | 3840x2160             |
 
 ScreenRes 0-4 can be selected in-game through the Video Settings page, while ScreenRes 5-10 can only be set using the user configuration file.
 
