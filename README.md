@@ -25,3 +25,24 @@ EAX enhances the game's audio using hardware acceleration to process advanced 3D
 - To restore EAX functionality, run the registry file, `eax_restore.reg` in the System folder and press "Yes" to the dialog to add the registry entries.
 
  This registry file registers `dsound.dll` in Windows, enabling EAX to function. Please note that this registry applies only to your specific Windows user. If you create a new Windows user, you'll need to run the registry file again to restore EAX.
+
+ ### Additional Screen Resolution Support
+ After creating a profile in the game, a user configuration file named `<username>_prf.ini` is generated in the System folder. Once generated, you can open this configuration file to make adjustments to your screen resolution that may not be accessible through the video settings GUI.
+
+| ScreenRes | Resolution    |
+|-----------|---------------|
+| 0         | 640x480       |
+| 1         | 800x600       |
+| 2         | 1024x768      |
+| 3         | 1280x1024     |
+| 4         | 7680x4320     |
+| 5         | 1440x1080     |
+| 6         | 1920x1080     |
+| 7         | 1920x1440     |
+| 8         | 2560x1440     |
+| 9         | 2880x2160     |
+| 10        | 3840x2160     |
+
+ScreenRes 0-4 are accessible in-game using the Video Settings page. You can only choose ScreenRes 5-10 by using this configuration file.
+
+ScreenRes 4 is referred to as "Native Resolution" in-game. This option will apply 8K resolution then if you are using a lower resolution display, it will automatically adjust by rounding down to your native resolution.
