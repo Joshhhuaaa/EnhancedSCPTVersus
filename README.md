@@ -35,7 +35,7 @@ EAX enhances the game's audio using hardware acceleration to process advanced 3D
 | 1         | 800x600       |
 | 2         | 1024x768      |
 | 3         | 1280x1024     |
-| 4         | 7680x4320     |
+| 4         | 7680x4320 / Native    |
 | 5         | 1440x1080     |
 | 6         | 1920x1080     |
 | 7         | 1920x1440     |
