@@ -17,8 +17,6 @@ Enhanced SCPT Versus comes included with [dgVoodoo2](https://github.com/dege-dio
 - In order to play the game, first mount the disc image included in the root directory named `Mount.iso`.
 - Run the game executable, `shadowstrike_static_retail.exe` in the System folder to begin playing. 
 
-dgVoodoo2 offers smoother, less pixelated shadows than 3D-Analyze. However, some users experience an issue where their game starts tabbing out while clicking the mouse on dgVoodoo2. If that occurs, you can try using 3D-Analyze to fix the issue.
-
 ### Additional Screen Resolution Support
  After creating a profile in the game, a profile configuration file named `<profilename>_prf.ini` is generated in the System folder. Once generated, you can open this configuration file to make adjustments to your screen resolution that may not be accessible through the video settings GUI.
 
