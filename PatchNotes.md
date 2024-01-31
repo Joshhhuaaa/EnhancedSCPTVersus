@@ -21,12 +21,21 @@
 - ESRB Notice and Loading Profiles messages have been disabled to speed up boot time.
 - In Video Options, 1600x1200 is replaced with "Native Resolution" as the highest preset resolution choice, supporting up to 8K.
     - For users facing issues with Native Resolution detection or preferring a 4:3 aspect ratio, the profile configuration file now supports new Screen Resolution presets.
-        - ScreenRes=5 – 1440x1080
-        - ScreenRes=6 – 1920x1080
-        - ScreenRes=7 - 1920x1440
-        - ScreenRes=8 – 2560x1440
-        - ScreenRes=9 – 2880x2160
-        - ScreenRes=10 – 3840x2160
+ 
+| ScreenRes | Resolution            |
+|-----------|-----------------------|
+| 0         | 640x480               |
+| 1         | 800x600               |
+| 2         | 1024x768              |
+| 3         | 1280x1024             |
+| 4         | 7680x4320 / Native    |
+| 5         | 1440x1080             |
+| 6         | 1920x1080             |
+| 7         | 1920x1440             |
+| 8         | 2560x1440             |
+| 9         | 2880x2160             |
+| 10        | 3840x2160             |
+
 - dgVoodoo2 will come included to fix dynamic lighting such as the Mercenary’s flashlight.
 - EAX can easily be restored into the game using the script in the System subfolder.
 
