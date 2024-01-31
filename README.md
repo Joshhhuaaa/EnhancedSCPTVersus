@@ -3,6 +3,8 @@ A major patch for Splinter Cell: Pandora Tomorrow's Versus mode, addressing bugs
 
 For a full list of patch notes, refer to the [Patch Notes](PatchNotes.md) page.
 
+If this is your first time wanting to play the Versus modes for the Splinter Cell games, it is highly recommend checking out [Enhanced SCCT Versus](https://github.com/Joshhhuaaa/EnhancedSCCTVersus) instead. SCPT Versus is often considered obsolete as SCCT Versus nearly improves every aspect of it and includes all SCPT Versus maps.
+
 ## Installation
 
 The latest version of Enhanced SCPT Versus can be found in the [Releases](https://github.com/Joshhhuaaa/EnhancedSCPTVersus/releases) page. Please note that versions of Enhanced SCPT Versus are not compatible with the default version of the game or previous Enhanced versions.
