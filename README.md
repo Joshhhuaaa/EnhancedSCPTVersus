@@ -27,7 +27,7 @@ EAX enhances the game's audio using hardware acceleration to process advanced 3D
  This registry file registers `dsound.dll` in Windows, enabling EAX to function. Please note that this registry applies only to your specific Windows user. If you create a new Windows user, you'll need to run the registry file again to restore EAX.
 
  ### Additional Screen Resolution Support
- After creating a profile in the game, a user configuration file named `<username>_prf.ini` is generated in the System folder. Once generated, you can open this configuration file to make adjustments to your screen resolution that may not be accessible through the video settings GUI.
+ After creating a profile in the game, a profile configuration file named `<profilename>_prf.ini` is generated in the System folder. Once generated, you can open this configuration file to make adjustments to your screen resolution that may not be accessible through the video settings GUI.
 
 | ScreenRes | Resolution    |
 |-----------|---------------|
