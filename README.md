@@ -48,7 +48,7 @@ EAX enhances the game's audio using hardware acceleration to process advanced 3D
  This registry file registers `dsound.dll` in Windows, enabling EAX to function. Please note that this registry applies only to your specific Windows user. If you create a new Windows user, you'll need to run the registry file again to restore EAX.
 
  ## Playing Online
-Ubisoft discontinued Double Agent's servers in June 2016. However, the multiplayer is still playable when using Virtual LAN applications. The most common method in the community currently is to use [Radmin VPN](https://www.radmin-vpn.com/). It's easy to set up, and there's no need for account creation.
+Ubisoft discontinued Pandora Tomorrow's servers in December 2006. However, the multiplayer is still playable when using Virtual LAN applications. The most common method in the community currently is to use [Radmin VPN](https://www.radmin-vpn.com/). It's easy to set up, and there's no need for account creation.
 
 - Once Radmin VPN is installed, select "Network" > "Join Network." A window will appear, click on the "Gaming Network" tab, and join the `Tom Clancy's Splinter Cell: Pandora Tomorrow` or `Splinter Cell Pan. Tom.` network.
 - If you would like to change your username on Radmin VPN, select "System" > "Change Name" or simply double-click your username.
