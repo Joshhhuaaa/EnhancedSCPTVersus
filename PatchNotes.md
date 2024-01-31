@@ -3,7 +3,7 @@
 ### Gameplay
 - Spies will no longer faintly appear in EMF vision, often called EMF ghosting, when not using any equipment.
 - Spies will no longer have adrenaline when being damaged allowing them to move faster for a short period. This eliminates major lag when Spies get shot at off-host.
-- Bug fixed: Spies no longer have inconsistent damage values depending on which side of the body was hit.
+- _Bug fixed:_ Spies no longer have inconsistent damage values depending on which side of the body was hit.
 
 ### Audio
 - The following sounds are no longer audible for more stealthy gameplay:
