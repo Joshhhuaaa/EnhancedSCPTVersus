@@ -18,7 +18,7 @@
 
 ### Miscellaneous
 - Includes the latest version of the game alongside the Unreal Level Editor pre-installed.
-- ESRB Notice message has been disabled to speed up boot time.
+- ESRB Notice on startup has been disabled to speed up boot time.
 - In Video Options, 1600x1200 is replaced with "Native Resolution" as the highest preset resolution choice, supporting up to 8K.
     - For users facing issues with Native Resolution detection or preferring a 4:3 aspect ratio, the profile configuration file now supports new Screen Resolution presets.
  
