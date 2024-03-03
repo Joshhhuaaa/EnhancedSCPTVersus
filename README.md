@@ -1,4 +1,4 @@
-# Enhanced SCPT Versus
+# <img src="Images/icon.png" width="32"> Enhanced SCPT Versus
 A major patch for Splinter Cell: Pandora Tomorrow's Versus mode, fixing bugs and exploits while improving gameplay.
 
 For a full list of patch notes, refer to the [Patch Notes](PatchNotes.md) page.
