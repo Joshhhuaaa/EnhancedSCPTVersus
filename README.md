@@ -14,8 +14,9 @@ The latest version of Enhanced SCPT Versus can be found in the [Releases](https:
 Enhanced SCPT Versus comes included with [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2), a wrapper that can restore the broken dynamic lights on modern PCs for SCPT Versus.
 
 - After downloading Enhanced SCPT Versus, extract the contents, and you should have a Enhanced SCPT Versus folder. You can place it anywhere you like, it's portable.
-- In order to play the game, first mount the disc image included in the root directory named `Mount.iso`.
-- Run the game executable, `shadowstrike_static_retail.exe` in the System folder to begin playing. 
+- In order to play the game, run the command script, `Play SCPT_Versus.cmd`.
+
+The command script will automatically mount the disc image and run the game executable. When the game closes, the disc image will be unmounted. If you ever need to mount the disc image manually, you can find it at: `System\_PC_\Enhanced\Mount.iso`.
 
 ### Additional Screen Resolution Support
  After creating a profile in the game, a profile configuration file named `<profilename>_prf.ini` is generated in the System folder. Once generated, you can open this configuration file to make adjustments to your screen resolution that may not be accessible through the video settings GUI.
