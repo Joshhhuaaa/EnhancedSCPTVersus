@@ -3,7 +3,7 @@
 ### Gameplay
 - Spies will no longer faintly appear in EMF vision, often called EMF ghosting, when not using any equipment.
 - Spies will no longer have adrenaline when being damaged allowing them to move faster for a short period. This eliminates major lag when Spies get shot at off-host.
-- _Bug fixed:_ Spies no longer have inconsistent damage values depending on which side of the body was hit.
+- *Bug fixed:* Spies no longer have inconsistent damage values depending on which side of the body was hit.
 
 ### Audio
 - The following sounds are no longer audible for more stealthy gameplay:
@@ -38,6 +38,8 @@
 
 - dgVoodoo2 will come included to fix dynamic lighting such as the Mercenary’s flashlight.
 - EAX can easily be restored into the game using the script in the System subfolder.
+- `Play SCPT Versus.cmd` script included in the game directory. This will automatically mount the disc image and launch the game. When the game closes, the disc image will be unmounted.
+  - If you ever need to mount the disc image manually, you can find it at: `System\_PC_\Enhanced\Mount.iso`.
 
 ### Maps
 - Includes two PC exclusive maps designed by Ubisoft Annecy including:
