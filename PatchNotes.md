@@ -37,9 +37,7 @@
 | 10        | 3840x2160             |
 
 - dgVoodoo2 will come included to fix dynamic lighting such as the Mercenary’s flashlight.
-- EAX can easily be restored into the game using the script in the System subfolder.
-- `Play SCPT Versus.cmd` script included in the game directory. This will automatically mount the disc image and launch the game. When the game closes, the disc image will be unmounted.
-  - If you ever need to mount the disc image manually, you can find it at: `System\_PC_\Enhanced\Mount.iso`.
+- EAX can easily be restored into the game using the `eax_restore.reg` script in the System subfolder.
 
 ### Maps
 - Includes two PC exclusive maps designed by Ubisoft Annecy including:
