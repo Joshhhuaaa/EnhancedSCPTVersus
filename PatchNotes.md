@@ -36,9 +36,6 @@
 | 9         | 2880x2160             |
 | 10        | 3840x2160             |
 
-- dgVoodoo2 will come included to fix dynamic lighting such as the Mercenary’s flashlight.
-- EAX can easily be restored into the game using the `eax_restore.reg` script in the System subfolder.
-
 ### Maps
 - Includes two PC exclusive maps designed by Ubisoft Annecy including:
     - The proof of concept for Steel Squat known as “The Squat.”
