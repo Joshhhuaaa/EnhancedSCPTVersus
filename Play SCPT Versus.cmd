@@ -1,0 +1,3 @@
+@echo off
+echo Mounting the disc image and launching SCPT Versus...
+PowerShell.exe -Command "& {Start-Process PowerShell.exe -ArgumentList '-ExecutionPolicy Bypass -File ""%~dp0System\_PC_\Enhanced\LaunchGame.ps1""' -Verb RunAs}"
