@@ -6,14 +6,12 @@ For a full list of patch notes, refer to the [Patch Notes](PatchNotes.md) page.
 If this is your first time wanting to play the Versus modes for the Splinter Cell games, it is highly recommend checking out [Enhanced SCCT Versus](https://github.com/Joshhhuaaa/EnhancedSCCTVersus) instead. SCPT Versus is often considered obsolete as SCCT Versus nearly improves every aspect of it and includes all SCPT Versus maps.
 
 ## Installation
-
 The latest version of Enhanced SCPT Versus can be found in the [Releases](https://github.com/Joshhhuaaa/EnhancedSCPTVersus/releases) page. Please note that versions of Enhanced SCPT Versus are not compatible with the default version of the game or previous Enhanced versions.
 
 ### Game Setup
-
 Enhanced SCPT Versus comes included with [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2), a wrapper that can restore the broken dynamic lights on modern PCs for SCPT Versus.
 
-- After downloading Enhanced SCPT Versus, extract the contents, and you should have a Enhanced SCPT Versus folder. You can place it anywhere you like, it's portable.
+- After downloading Enhanced SCPT Versus, extract the contents. You will then have an Enhanced SCPT Versus folder, which you can place anywhere you like since it's portable.
 - In order to play the game, run the command script, `Play SCPT_Versus.cmd`.
 
 The command script will automatically mount the disc image and launch the game. When the game closes, the command script will also unmount the disc image.
