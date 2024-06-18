@@ -37,7 +37,7 @@
 | 10        | 3840x2160             |
 
 - dgVoodoo2 will come included to fix dynamic lighting such as the Mercenary’s flashlight.
-- EAX can easily be restored into the game using the `eax_restore.reg` script in the System subfolder.
+- EAX can easily be restored into the game using the `eax_restore.reg` script in the System folder.
 - `Play SCPT Versus.cmd` included in the game directory to simplify launching the game.
   - If you need to mount the disc image manually, you can find it at: `System\_PC_\Enhanced\Mount.iso`.
 
