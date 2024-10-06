@@ -1,9 +1,9 @@
 # Enhanced SCPT Versus Patch Notes
 
 ### Gameplay
-- Spies will no longer faintly appear in EMF vision, often called EMF ghosting, when not using any equipment.
-- Spies will no longer have adrenaline when being damaged allowing them to move faster for a short period. This eliminates major lag when Spies get shot at off-host.
-- *Bug fixed:* Spies no longer have inconsistent damage values depending on which side of the body was hit.
+- Spies no longer faintly appear in EMF Vision, often called EMF ghosting, when not using any equipment.
+- Spies no longer have adrenaline when being damaged allowing them to move faster for a short period. This eliminates major lag when Spies get shot at off-host.
+- Spies and Mercenaries no longer have inconsistent damage values depending on which side of the body was hit.
 
 ### Audio
 - The following sounds are no longer audible for more stealthy gameplay:
@@ -36,7 +36,7 @@
 | 9         | 2880x2160             |
 | 10        | 3840x2160             |
 
-- dgVoodoo2 will come included to fix dynamic lighting such as the Mercenary’s flashlight.
+- dgVoodoo2 comes included to fix dynamic lighting such as the Mercenary’s flashlight.
 - EAX can easily be restored into the game using the `eax_restore.reg` script in the System folder.
 - `Play SCPT Versus.cmd` included in the game directory to simplify launching the game.
   - If you need to mount the disc image manually, you can find it at: `System\_PC_\Enhanced\Mount.iso`.
