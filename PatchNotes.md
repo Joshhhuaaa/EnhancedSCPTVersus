@@ -36,12 +36,11 @@
 | 9         | 2880x2160             |
 | 10        | 3840x2160             |
 
-- dgVoodoo2 comes included to fix dynamic lighting such as the Mercenary’s flashlight.
-- EAX can easily be restored into the game using the `eax_restore.reg` script in the System folder.
-- `Play SCPT Versus.cmd` included in the game directory to simplify launching the game.
-  - If you need to mount the disc image manually, you can find it at: `System\_PC_\Enhanced\Mount.iso`.
+- dgVoodoo2 comes included to fix dynamic lighting such as the Mercenary's flashlight.
 
 ### Maps
 - Includes two PC exclusive maps designed by Ubisoft Annecy including:
-    - The proof of concept for Steel Squat known as “The Squat.”
-    - An alternate version of Deftech Belew known as “Deftech Belew 2.”
+  - The proof of concept for Steel Squat known as "The Squat."
+  - An alternate version of Deftech Belew known as "Deftech Belew 2."
+- Federal Bank and River Mall have been manually ported, as Ubisoft did not release the DLC on the PC version.
+  - Due to limitations in Pandora Tomorrow's Editor, some ambient sounds and animated meshes were unable to be imported.
